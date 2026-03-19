@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pppoo;
+package Tipo1;
 
 /**
  *
- * @author Usuario
+ * @author Juan Manuel - Juan Sebastian
  */
-public class Tipo1 {
+public class Vehiculo {
 
     /**
      * @param args the command line arguments
